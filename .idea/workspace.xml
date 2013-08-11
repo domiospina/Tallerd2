@@ -2,46 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tallerD2/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/tallerD2/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tallerD2/ControlConversor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/tallerD2/ControlConversorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tallerD2/ConversorEuros.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tallerD2/ConversorEurosPesetas.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/tallerD2/ConversorEurosPesetasTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/tallerD2/ConversorEurosTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tallerD2/InterfazTextualConversor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/tallerD2/InterfazTextualConversorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tallerD2/InterfazVista.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/tallerD2/InterfazVistaTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tallerD2/ProgramaDeConversión.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/tallerD2/ProgramaDeConversiónTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tallerD2/VentanaConversor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/tallerD2/VentanaConversorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tallerD2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unnamed.patch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tallerD2.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375709259057" ignored="false" />
+    <file path="/pom.xml" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376055482194" ignored="false" />
     <file path="J:/sistema2.0/.idea/workspace.xml" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375562076455" ignored="false" />
     <file path="/ConversorEurosPesetas.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375562214392" ignored="false" />
-    <file path="/fragment.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375714121454" ignored="false" />
-    <file path="/Dummy.txt" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375738262227" ignored="false" />
-    <file path="$PROJECT_DIR$/../Genericos/pom.xml" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375709259625" ignored="false" />
-    <file path="$PROJECT_DIR$/../Genericos/src/test/java/Genericos/Generico.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375709764922" ignored="false" />
+    <file path="/fragment.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376178142374" ignored="false" />
+    <file path="/Dummy.txt" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376179511810" ignored="false" />
+    <file path="D:/Genericos/pom.xml" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375709259625" ignored="false" />
+    <file path="D:/Genericos/src/test/java/Genericos/Generico.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375709764922" ignored="false" />
     <file path="/Generico.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375709893300" ignored="false" />
-    <file path="$PROJECT_DIR$/../Genericos/src/main/java/Genericos/Generico.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375709895938" ignored="false" />
-    <file path="$PROJECT_DIR$/../Genericos/src/test/java/Genericos/GenericoTest.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375712155039" ignored="false" />
+    <file path="D:/Genericos/src/main/java/Genericos/Generico.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375709895938" ignored="false" />
+    <file path="D:/Genericos/src/test/java/Genericos/GenericoTest.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375712155039" ignored="false" />
     <file path="/ProgramaDeConversiónTest.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375710495200" ignored="false" />
     <file path="/GenericoTest.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375712149504" ignored="false" />
-    <file path="$PROJECT_DIR$/../Genericos/src/main/java/Genericos/Persona.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375714307014" ignored="false" />
+    <file path="D:/Genericos/src/main/java/Genericos/Persona.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375714307014" ignored="false" />
     <file path="/Persona.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375714033066" ignored="false" />
-    <file path="$PROJECT_DIR$/../Genericos/src/main/java/Genericos/Noviable.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375714307014" ignored="false" />
+    <file path="D:/Genericos/src/main/java/Genericos/Noviable.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375714307014" ignored="false" />
     <file path="/Noviable.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375713704719" ignored="false" />
-    <file path="$PROJECT_DIR$/../Genericos/src/main/java/Genericos/Aliens.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375714446386" ignored="false" />
+    <file path="D:/Genericos/src/main/java/Genericos/Aliens.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375714446386" ignored="false" />
     <file path="/Aliens.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1375714382949" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/LEG/pom.xml" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376055482765" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Trabajo_figuras_Daniel/src/main/java/FiguraCalculable/Circulo.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376178404109" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Trabajo_figuras_Daniel/src/main/java/FiguraCalculable/Cuadrado.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376178071636" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Trabajo_figuras_Daniel/src/main/java/FiguraCalculable/Figura.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376178404109" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Trabajo_figuras_Daniel/src/main/java/FiguraCalculable/FiguraCalculable.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376178081926" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Trabajo_figuras_Daniel/src/main/java/FiguraCalculable/Triangulo.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376178404109" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Trabajo_figuras_Daniel/src/test/java/FiguraCalculable/AppTest.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376178404109" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Trabajo_figuras_Daniel/src/test/java/FiguraCalculable/CirculoTest.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376178109470" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Trabajo_figuras_Daniel/src/test/java/FiguraCalculable/CuadradoTest.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376178114151" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Trabajo_figuras_Daniel/src/test/java/FiguraCalculable/FiguraTest.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376178121191" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Trabajo_figuras_Daniel/src/test/java/FiguraCalculable/TrianguloTest.java" changelist="2c1ee939-1e86-44b8-8af1-b1e56f6d0da8" time="1376178127440" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +49,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -91,6 +83,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -100,15 +93,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ControlConversor.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tallerD2/ControlConversor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="20" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="InterfazVista.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tallerD2/InterfazVista.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -154,10 +138,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InterfazTextualConversor.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="InterfazTextualConversor.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tallerD2/InterfazTextualConversor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="62" selection-start="326" selection-end="339" vertical-scroll-proportion="0.05345912">
+            <state line="14" column="62" selection-start="326" selection-end="339" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -244,9 +237,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -274,7 +268,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -297,61 +290,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tallerD2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tallerD2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tallerD2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tallerD2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tallerD2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tallerD2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -361,7 +303,7 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="D:/taller_6" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Trabajo_figuras_Daniel" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
@@ -432,19 +374,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -470,6 +399,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -557,8 +499,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="728" extended-state="1" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -572,7 +514,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41706926" sideWeight="0.6208791" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5974235" sideWeight="0.6208791" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27045456" sideWeight="0.9575552" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3791209" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -643,27 +585,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/tallerD2/ConversorEuros.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tallerD2/ConversorEurosPesetas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="4" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="20" column="4" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tallerD2/VentanaConversor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="20" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="12" column="20" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tallerD2/AppTest.java">
@@ -673,23 +602,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tallerD2/InterfazVistaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="28" selection-start="236" selection-end="515" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="30" column="28" selection-start="236" selection-end="515" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tallerD2/VentanaConversorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="62" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="62" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tallerD2/ControlConversor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="20" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="12" column="20" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tallerD2/ProgramaDeConversión.java">
@@ -750,7 +673,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tallerD2/InterfazTextualConversor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="62" selection-start="326" selection-end="339" vertical-scroll-proportion="0.05345912">
+        <state line="14" column="62" selection-start="326" selection-end="339" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
